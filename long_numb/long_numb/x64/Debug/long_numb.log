@@ -1,0 +1,22 @@
+﻿  long_numb.cpp
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(56,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(103,27): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(114,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(163,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(196,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(213,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\BigInt.h(254,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\MatVect.h(197,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\MatVect.h(157): message : во время компиляции функции-члена класс шаблон "std::vector<T,std::allocator<T>> Matrix<T>::solveEquations(const std::vector<T,std::allocator<T>> &) const"
+          with
+          [
+              T=Rational<BigInt>
+          ]
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\long_numb.cpp(113): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<T,std::allocator<T>> Matrix<T>::solveEquations(const std::vector<T,std::allocator<T>> &) const"
+          with
+          [
+              T=Rational<BigInt>
+          ]
+D:\Ann\Навчання\ооп\lab2\long_numb\long_numb\long_numb.cpp(102): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Matrix<Rational<BigInt>>"
+  long_numb.vcxproj -> D:\Ann\Навчання\ооп\lab2\long_numb\x64\Debug\long_numb.exe
